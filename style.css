@@ -1,0 +1,75 @@
+.couleurrouge{height: 50px;
+    background-color: red;
+margin-bottom: 5px;}
+
+
+
+.couleurjaune{height: 150px;
+background-color: yellow;
+margin-bottom: 5px;}
+
+.global{
+    height: 500px;
+    display:flex
+}
+
+.blocbleu{
+    height: 500px;
+background-color: blue;
+width: 100%;
+margin-right: 5px;
+}
+
+
+
+.couleurverte{height: 250px;
+background-color: green;
+width: 100%;
+margin-bottom: 5px;}
+
+.global2{ height: 250px;
+width: 100%;}
+
+.global3{height: 250px;
+width: 100%;
+display: flex;}
+
+.couleurvertbleu{height: 125px;
+background-color:darkslategrey;
+width: 100%;
+margin-bottom: 5px;}
+
+
+.global4
+{height: 125px;
+    width: 100%;}
+
+
+.couleurorange{height: 250px;
+background-color: orange;
+width: 20%;
+margin-right: 5px;}
+
+.global4{height: 125px;
+width: 100%;}
+
+.couleurvertbleu{height: 125px;
+    background-color:darkslategrey;
+    width:100%;}
+
+.global5
+{height: 125px;
+width: 100%;
+display: flex;}
+
+
+.couleurbeige
+{height: 125px;
+width: 50%;
+background-color: rgb(191, 191, 128);
+margin-right: 5px;}
+
+.couleurblack{height: 125px;
+width: 50%;
+background-color: black;}
+
